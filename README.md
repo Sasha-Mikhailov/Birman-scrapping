@@ -8,7 +8,7 @@ Personal project to practice afer 1 month of studying Python from the ground.
 - [report](https://sashamikhailov.ru/blog/all/python-web-scraping/) in my personal blog (in Russain)
 
 ## Part 2 — data analysis with pandas
-- [Jupyter Notebook]() with code
+- Jupyter Notebook with code
 - [report](https://sashamikhailov.ru/blog/all/birman-vs-pandas/) in my personal blog (in Russain)
 
 
