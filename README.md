@@ -1,5 +1,5 @@
-# Birman-scapping
-Web scrapping of [Ilya Birman's personal blog](https://ilyabirman.ru/meanwhile/)
+# Data mining practice
+Data mining of [Ilya Birman's personal blog](https://ilyabirman.ru/meanwhile/) — 12 years and 4500+ items of data.
 
 Personal project to practice afer 1 month of studying Python from the ground.
 
